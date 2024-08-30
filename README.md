@@ -28,3 +28,6 @@ C for >40 && <50
 D for 35 && <40
 F for <35
 The grade is then displayed along with the student's name and scores.
+
+![Screenshot 2024-08-31 002537](https://github.com/user-attachments/assets/98a4e8e6-7e8d-4405-bfa3-6f6ff0cd73a4)
+
